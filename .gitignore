@@ -1,0 +1,14 @@
+.env
+*.pyc
+__pycache__/
+.DS_Store
+streamlit.log
+.claude/
+
+# Raw Adzuna job-posting snapshots and the full database (both hold full
+# posting text) -- kept private. cci_pipeline_public.db is the one to publish.
+cci_job_postings_*.csv
+cci_pipeline.db
+
+# Local AI-assistant notes -- not published.
+CLAUDE.md
