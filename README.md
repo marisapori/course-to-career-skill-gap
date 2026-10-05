@@ -5,7 +5,7 @@ what do entry-level employers actually ask for? This project compares all
 117 CCI undergraduate course descriptions against 1,134 real job postings
 to find where the two line up and where they don't.
 
-**Live dashboard:** _link coming soon_
+**Live dashboard:** https://course-to-career-skill-gap.streamlit.app
 
 ![Dashboard overview](docs/dashboard-top.png)
 
