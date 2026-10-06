@@ -1,384 +1,348 @@
 job_id,skill,skill_category
-5762420229,cybersecurity,Technical/IT
-5793850209,cybersecurity,Technical/IT
-5746381434,cybersecurity,Technical/IT
-5737369715,project management,Technical/IT
-5793473213,cybersecurity,Technical/IT
-5703863502,cybersecurity,Technical/IT
-5780806747,SQL,Technical/IT
+5886806756,cybersecurity,Technical/IT
+5886756408,cybersecurity,Technical/IT
+5887588955,cybersecurity,Technical/IT
+5906843523,SQL,Technical/IT
+5906843523,cybersecurity,Technical/IT
+5911032374,SQL,Technical/IT
+5911032374,cybersecurity,Technical/IT
+5907326222,SQL,Technical/IT
+5907326222,cybersecurity,Technical/IT
+5912965138,cloud computing,Technical/IT
+5913687677,AI,Technical/IT
+5909927002,SQL,Technical/IT
+5831263372,SQL,Technical/IT
 5693380222,AI,Technical/IT
-5776904562,AI,Technical/IT
-5794838102,SQL,Technical/IT
-5764758414,SQL,Technical/IT
-5790375425,SQL,Technical/IT
-5769926454,SQL,Technical/IT
-5701530382,SQL,Technical/IT
-5777178960,SQL,Technical/IT
-5770017155,SQL,Technical/IT
-5767378185,SQL,Technical/IT
-5794920588,SQL,Technical/IT
-5797084589,SQL,Technical/IT
-5795985149,SQL,Technical/IT
-5793516835,SQL,Technical/IT
-5774994627,SQL,Technical/IT
-5776903803,SQL,Technical/IT
-5795650224,SQL,Technical/IT
-5742143215,Python,Technical/IT
-5777939068,SQL,Technical/IT
-5777051019,SQL,Technical/IT
-5770053874,SQL,Technical/IT
-5584973308,AI,Technical/IT
-5765487471,cybersecurity,Technical/IT
-5764758443,network administration,Technical/IT
-5757458177,network administration,Technical/IT
-5760609257,AI,Technical/IT
-5784380020,network administration,Technical/IT
+5885467220,database management,Technical/IT
+5875732253,project management,Technical/IT
+5904369021,Python,Technical/IT
+5906036707,SQL,Technical/IT
+5907000513,cybersecurity,Technical/IT
+5908606743,cybersecurity,Technical/IT
+5907004711,cybersecurity,Technical/IT
+5832801052,network administration,Technical/IT
+5839252793,network administration,Technical/IT
 5740537478,network administration,Technical/IT
-5757769700,network administration,Technical/IT
-5787507865,AI,Technical/IT
-5787507865,cybersecurity,Technical/IT
-5689245828,network administration,Technical/IT
-5770111819,Python,Technical/IT
-5759312895,cybersecurity,Technical/IT
-5792910984,AI,Technical/IT
-5792910984,cybersecurity,Technical/IT
-5792910984,data analytics,Technical/IT
-5780725257,AI,Technical/IT
-5790617991,cybersecurity,Technical/IT
-5793494854,API,Technical/IT
-5793494854,SQL,Technical/IT
-5772978025,JavaScript,Technical/IT
-5772978025,Python,Technical/IT
-5772978025,CSS,Technical/IT
-5772978025,HTML,Technical/IT
-5714845465,AI,Technical/IT
-5795871677,JavaScript,Technical/IT
-5776454030,JavaScript,Technical/IT
-5776454030,CSS,Technical/IT
-5776454030,HTML,Technical/IT
-5761261995,HTML,Technical/IT
-5761261995,CSS,Technical/IT
-5761261995,digital marketing,Communications/Marketing
-5748077179,UI design,Technical/IT
-5748077179,SEO,Communications/Marketing
-5728161613,SQL,Technical/IT
-5785687027,JavaScript,Technical/IT
-5785687027,SQL,Technical/IT
-5680364595,API,Technical/IT
-5786126816,AI,Technical/IT
-5786126816,graphic design,Communications/Marketing
-5784988749,JavaScript,Technical/IT
-5784988749,CSS,Technical/IT
-5784988749,HTML,Technical/IT
-5784988749,SQL,Technical/IT
-5683633370,Python,Technical/IT
-5792942708,API,Technical/IT
-5791926833,JavaScript,Technical/IT
-5791926833,CSS,Technical/IT
-5791926833,API,Technical/IT
-5791926833,HTML,Technical/IT
-5793392968,JavaScript,Technical/IT
-5793392968,CSS,Technical/IT
-5793392968,HTML,Technical/IT
-5795867077,API,Technical/IT
-5795867077,SQL,Technical/IT
-5786976245,JavaScript,Technical/IT
-5786976245,SQL,Technical/IT
-5762463670,AI,Technical/IT
-5794101441,AI,Technical/IT
-5789985137,data visualization,Technical/IT
-5792991589,data analytics,Technical/IT
-5775687128,data visualization,Technical/IT
-5775687128,SQL,Technical/IT
-5782229037,SQL,Technical/IT
-5760119270,SQL,Technical/IT
-5787000841,data analytics,Technical/IT
-5787000841,SQL,Technical/IT
-5777881357,data analytics,Technical/IT
-5777881357,SQL,Technical/IT
-5766756408,data visualization,Technical/IT
-5790981739,data analytics,Technical/IT
-5795665076,SQL,Technical/IT
-5792942553,data analytics,Technical/IT
-5792942553,SQL,Technical/IT
-5744071254,cybersecurity,Technical/IT
-5719037702,cybersecurity,Technical/IT
-5752873762,cybersecurity,Technical/IT
-5793395675,cybersecurity,Technical/IT
-5796653061,cybersecurity,Technical/IT
-5796967781,cybersecurity,Technical/IT
-5794498265,cybersecurity,Technical/IT
-5793392371,cybersecurity,Technical/IT
+5908799261,cybersecurity,Technical/IT
+5908574751,cybersecurity,Technical/IT
+5911264258,JavaScript,Technical/IT
+5911264258,HTML,Technical/IT
+5911068936,JavaScript,Technical/IT
+5911068936,HTML,Technical/IT
+5906672003,API,Technical/IT
+5906672003,SEO,Communications/Marketing
+5913302779,SQL,Technical/IT
+5913263654,AI,Technical/IT
+5913232787,SQL,Technical/IT
+5913188635,SQL,Technical/IT
+5913311471,SQL,Technical/IT
+5884020793,JavaScript,Technical/IT
+5884020793,HTML,Technical/IT
+5884020793,CSS,Technical/IT
+5906928359,SEO,Communications/Marketing
+5877831644,API,Technical/IT
+5877831644,Python,Technical/IT
+5906199859,digital marketing,Communications/Marketing
+5906199859,SEO,Communications/Marketing
+5906353546,JavaScript,Technical/IT
+5906353546,HTML,Technical/IT
+5906353546,SEO,Communications/Marketing
+5906353546,CSS,Technical/IT
+5890080593,AI,Technical/IT
+5869948373,SQL,Technical/IT
+5912916047,HTML,Technical/IT
+5912916047,CSS,Technical/IT
+5903170139,SQL,Technical/IT
+5912973342,API,Technical/IT
+5912914092,CSS,Technical/IT
+5912892191,JavaScript,Technical/IT
+5912892191,HTML,Technical/IT
+5912892191,CSS,Technical/IT
+5904372072,JavaScript,Technical/IT
+5896405463,Excel,Technical/IT
+5878879535,JavaScript,Technical/IT
+5878879535,HTML,Technical/IT
+5878879535,CSS,Technical/IT
+5911063842,SQL,Technical/IT
+5911087690,SQL,Technical/IT
+5910867306,data analytics,Technical/IT
+5907579124,data analytics,Technical/IT
+5907418756,data analytics,Technical/IT
+5902364975,data analytics,Technical/IT
+5909421515,data analytics,Technical/IT
+5909048795,cybersecurity,Technical/IT
+5908619394,cybersecurity,Technical/IT
+5908623202,cybersecurity,Technical/IT
+5909004909,cybersecurity,Technical/IT
+5912959088,cybersecurity,Technical/IT
+5910833481,cybersecurity,Technical/IT
+5911057870,cybersecurity,Technical/IT
+5906882045,cybersecurity,Technical/IT
+5907358705,cybersecurity,Technical/IT
+5904226878,cybersecurity,Technical/IT
+5904267808,cybersecurity,Technical/IT
+5904568656,cybersecurity,Technical/IT
+5906453427,cybersecurity,Technical/IT
+5887016765,cybersecurity,Technical/IT
+5819609627,cybersecurity,Technical/IT
+5905051159,cybersecurity,Technical/IT
+5905048142,cybersecurity,Technical/IT
+5902461640,cybersecurity,Technical/IT
+5895036374,cybersecurity,Technical/IT
+5895043180,cybersecurity,Technical/IT
+5895037020,cybersecurity,Technical/IT
+5895026526,cybersecurity,Technical/IT
+5895030624,cybersecurity,Technical/IT
+5895028195,cybersecurity,Technical/IT
+5895031204,cybersecurity,Technical/IT
+5895034372,cybersecurity,Technical/IT
+5895131868,cybersecurity,Technical/IT
+5895080209,cybersecurity,Technical/IT
+5895118199,cybersecurity,Technical/IT
+5895131369,cybersecurity,Technical/IT
+5895084424,cybersecurity,Technical/IT
+5895051343,cybersecurity,Technical/IT
+5895066528,cybersecurity,Technical/IT
+5895056251,cybersecurity,Technical/IT
+5895066220,cybersecurity,Technical/IT
+5895040333,cybersecurity,Technical/IT
+5895047360,cybersecurity,Technical/IT
+5895049263,cybersecurity,Technical/IT
+5895052842,cybersecurity,Technical/IT
+5895052391,cybersecurity,Technical/IT
+5895052176,cybersecurity,Technical/IT
+5895051040,cybersecurity,Technical/IT
+5895048607,cybersecurity,Technical/IT
+5895048348,cybersecurity,Technical/IT
+5836061701,cybersecurity,Technical/IT
 5683624561,cybersecurity,Technical/IT
-5786209541,cybersecurity,Technical/IT
-5768328951,cybersecurity,Technical/IT
-5781564614,cybersecurity,Technical/IT
-5782799431,AI,Technical/IT
-5782799431,cybersecurity,Technical/IT
-5779576755,cybersecurity,Technical/IT
-5769612695,cybersecurity,Technical/IT
-5792943355,cybersecurity,Technical/IT
-5736198668,cybersecurity,Technical/IT
-5786840145,cybersecurity,Technical/IT
-5792991527,cybersecurity,Technical/IT
-5767314500,cybersecurity,Technical/IT
-5753705989,cybersecurity,Technical/IT
-5787518377,cybersecurity,Technical/IT
-5786409336,cybersecurity,Technical/IT
-5740502902,cybersecurity,Technical/IT
-5778016602,cybersecurity,Technical/IT
-5775473502,Python,Technical/IT
-5775473502,cybersecurity,Technical/IT
-5740541431,cybersecurity,Technical/IT
-5740544984,cybersecurity,Technical/IT
-5740503433,cybersecurity,Technical/IT
-5779280490,cybersecurity,Technical/IT
-5740504103,cybersecurity,Technical/IT
-5756051222,cybersecurity,Technical/IT
-5796594280,cybersecurity,Technical/IT
-5791546170,cybersecurity,Technical/IT
-5759198593,cybersecurity,Technical/IT
-5740557953,cybersecurity,Technical/IT
-5762495347,cybersecurity,Technical/IT
-5793745683,cybersecurity,Technical/IT
-5740502821,cybersecurity,Technical/IT
-5740541268,cybersecurity,Technical/IT
-5792911001,cybersecurity,Technical/IT
-5778614510,cybersecurity,Technical/IT
-5740558319,cybersecurity,Technical/IT
-5740537031,cybersecurity,Technical/IT
-5777563905,cybersecurity,Technical/IT
-5744439242,cybersecurity,Technical/IT
-5791193493,cybersecurity,Technical/IT
-5784931493,cybersecurity,Technical/IT
-5740554679,cybersecurity,Technical/IT
-5761979390,cybersecurity,Technical/IT
-5794236937,AI,Technical/IT
-5794406809,AI,Technical/IT
-5782098420,UX design,Technical/IT
-5782098420,UI design,Technical/IT
-5796297052,cybersecurity,Technical/IT
-5774201253,AI,Technical/IT
-5774147233,UX design,Technical/IT
-5774147233,AI,Technical/IT
-5738313109,UI design,Technical/IT
-5795926864,AI,Technical/IT
-5796377948,AI,Technical/IT
-5781283113,UI design,Technical/IT
-5794237054,graphic design,Communications/Marketing
-5794237054,UI design,Technical/IT
-5785687661,UX design,Technical/IT
-5785687661,UI design,Technical/IT
+5906035985,cybersecurity,Technical/IT
+5902277370,cybersecurity,Technical/IT
+5911031234,UX design,Technical/IT
+5910953420,UX design,Technical/IT
+5907372973,AI,Technical/IT
+5907061451,AI,Technical/IT
+5907000326,AI,Technical/IT
+5907281192,AI,Technical/IT
+5907234253,AI,Technical/IT
+5908760316,UI design,Technical/IT
+5908760316,UX design,Technical/IT
+5909166654,UI design,Technical/IT
+5909166654,UX design,Technical/IT
+5909582721,AI,Technical/IT
+5889749622,UX design,Technical/IT
+5908392728,AI,Technical/IT
+5913447650,AI,Technical/IT
+5680353976,UX design,Technical/IT
+5887684393,cybersecurity,Technical/IT
+5913449616,AI,Technical/IT
+5906935091,UX design,Technical/IT
+5856199762,AI,Technical/IT
+5907168351,UI design,Technical/IT
+5884168205,AI,Technical/IT
+5885184444,UI design,Technical/IT
+5865216251,AI,Technical/IT
+5902323363,UX design,Technical/IT
+5913441075,AI,Technical/IT
+5913420333,AI,Technical/IT
+5913452630,AI,Technical/IT
 5727894843,graphic design,Communications/Marketing
-5796684146,AI,Technical/IT
-5330350523,UI design,Technical/IT
-5730004663,AI,Technical/IT
-4814464838,UI design,Technical/IT
-5676737125,HTML,Technical/IT
-5676737125,CSS,Technical/IT
-5676737125,UI design,Technical/IT
-5762044627,AI,Technical/IT
-5762172398,AI,Technical/IT
-5787490284,digital marketing,Communications/Marketing
-5787526644,digital marketing,Communications/Marketing
-5787489253,digital marketing,Communications/Marketing
-5787429249,digital marketing,Communications/Marketing
-5787489674,digital marketing,Communications/Marketing
-5787491045,digital marketing,Communications/Marketing
+5909676548,digital marketing,Communications/Marketing
+5909676548,SEO,Communications/Marketing
+5909676548,AI,Technical/IT
+5899661313,digital marketing,Communications/Marketing
+5875467401,digital marketing,Communications/Marketing
+5831447424,digital marketing,Communications/Marketing
+5895076933,digital marketing,Communications/Marketing
+5875467380,digital marketing,Communications/Marketing
+5893846134,digital marketing,Communications/Marketing
+5831364147,digital marketing,Communications/Marketing
+5896398693,digital marketing,Communications/Marketing
+5906035469,SEO,Communications/Marketing
+5906035469,content strategy,Communications/Marketing
 5626255123,public relations,Communications/Marketing
 5535066408,public relations,Communications/Marketing
-5764135702,digital marketing,Communications/Marketing
-5788557493,digital marketing,Communications/Marketing
-5786265502,digital marketing,Communications/Marketing
-5788557489,digital marketing,Communications/Marketing
-5786265209,digital marketing,Communications/Marketing
-5796276872,digital marketing,Communications/Marketing
-5796276872,SEO,Communications/Marketing
-5763020381,digital marketing,Communications/Marketing
-5754889953,digital marketing,Communications/Marketing
-5796287993,digital marketing,Communications/Marketing
-5716462537,digital marketing,Communications/Marketing
-5732062083,digital marketing,Communications/Marketing
-5762475254,digital marketing,Communications/Marketing
-5762475254,SEO,Communications/Marketing
-5681690569,digital marketing,Communications/Marketing
-5681690569,SEO,Communications/Marketing
-5758791679,digital marketing,Communications/Marketing
-5789542755,digital marketing,Communications/Marketing
-5768379190,digital marketing,Communications/Marketing
+5903928063,digital marketing,Communications/Marketing
+5913423477,digital marketing,Communications/Marketing
+5907402201,market research,Communications/Marketing
+5907402201,digital marketing,Communications/Marketing
+5879312762,digital marketing,Communications/Marketing
+5911149966,digital marketing,Communications/Marketing
+5908805223,digital marketing,Communications/Marketing
+5908574130,digital marketing,Communications/Marketing
+5908653582,digital marketing,Communications/Marketing
+5908653582,SEO,Communications/Marketing
+5908653582,AI,Technical/IT
+5908637284,digital marketing,Communications/Marketing
+5908785845,digital marketing,Communications/Marketing
+5913532169,digital marketing,Communications/Marketing
+5908582714,digital marketing,Communications/Marketing
+5908815526,digital marketing,Communications/Marketing
+5907402994,digital marketing,Communications/Marketing
+5911149971,graphic design,Communications/Marketing
+5911149971,digital marketing,Communications/Marketing
+5908798917,digital marketing,Communications/Marketing
+5908798560,graphic design,Communications/Marketing
+5908798560,digital marketing,Communications/Marketing
+5908784433,digital marketing,Communications/Marketing
+5909513831,digital marketing,Communications/Marketing
+5870699360,digital marketing,Communications/Marketing
+5906693281,digital marketing,Communications/Marketing
+5906693281,SEO,Communications/Marketing
+5913590504,digital marketing,Communications/Marketing
+5886627292,digital marketing,Communications/Marketing
+5909209635,digital marketing,Communications/Marketing
+5886629422,digital marketing,Communications/Marketing
+5913518850,digital marketing,Communications/Marketing
+5902907102,digital marketing,Communications/Marketing
+5902907102,SEO,Communications/Marketing
+5913416981,digital marketing,Communications/Marketing
+5902461649,digital marketing,Communications/Marketing
+5902461649,SEO,Communications/Marketing
+5891659316,digital marketing,Communications/Marketing
+5909860166,digital marketing,Communications/Marketing
+5896732880,digital marketing,Communications/Marketing
+5909935895,digital marketing,Communications/Marketing
+5909849999,digital marketing,Communications/Marketing
+5856190748,digital marketing,Communications/Marketing
+5859191412,digital marketing,Communications/Marketing
+5913520302,digital marketing,Communications/Marketing
+5907854148,digital marketing,Communications/Marketing
+5907999101,digital marketing,Communications/Marketing
+5908008734,digital marketing,Communications/Marketing
+5849190337,digital marketing,Communications/Marketing
+5891659314,digital marketing,Communications/Marketing
+5887596606,digital marketing,Communications/Marketing
+5887573663,digital marketing,Communications/Marketing
+5887591339,digital marketing,Communications/Marketing
+5877621006,digital marketing,Communications/Marketing
+5832528115,digital marketing,Communications/Marketing
 5758728825,digital marketing,Communications/Marketing
 5758728825,SEO,Communications/Marketing
 5792111782,digital marketing,Communications/Marketing
-5741387851,digital marketing,Communications/Marketing
 5769089151,digital marketing,Communications/Marketing
-5783827718,digital marketing,Communications/Marketing
-5775188367,digital marketing,Communications/Marketing
-5783827717,digital marketing,Communications/Marketing
-5783827719,digital marketing,Communications/Marketing
-5783827722,digital marketing,Communications/Marketing
-5783827720,digital marketing,Communications/Marketing
-5783827721,digital marketing,Communications/Marketing
-5735312670,digital marketing,Communications/Marketing
-5605904312,digital marketing,Communications/Marketing
-5605904312,SEO,Communications/Marketing
-5753430651,digital marketing,Communications/Marketing
-5753430651,SEO,Communications/Marketing
-5793680303,digital marketing,Communications/Marketing
-5750166425,digital marketing,Communications/Marketing
-5614594360,digital marketing,Communications/Marketing
-5769055212,AI,Technical/IT
-5769055212,digital marketing,Communications/Marketing
-5769055212,SEO,Communications/Marketing
-5787421365,digital marketing,Communications/Marketing
-5581102299,digital marketing,Communications/Marketing
-5750159677,digital marketing,Communications/Marketing
-5734718008,digital marketing,Communications/Marketing
-5734920241,digital marketing,Communications/Marketing
-5777227018,digital marketing,Communications/Marketing
-4809891898,digital marketing,Communications/Marketing
-5731120132,digital marketing,Communications/Marketing
-5788128229,social media management,Communications/Marketing
-5788128229,graphic design,Communications/Marketing
-5788128229,digital marketing,Communications/Marketing
-5770618217,digital marketing,Communications/Marketing
-5770618217,public relations,Communications/Marketing
-5735035978,digital marketing,Communications/Marketing
-5586409500,digital marketing,Communications/Marketing
-5730213985,digital marketing,Communications/Marketing
-5745357592,digital marketing,Communications/Marketing
-5730163046,digital marketing,Communications/Marketing
-5753002386,digital marketing,Communications/Marketing
-5784928130,digital marketing,Communications/Marketing
-5780667651,SEO,Communications/Marketing
-5780667651,digital marketing,Communications/Marketing
-5780667651,content strategy,Communications/Marketing
-5750279589,media planning,Communications/Marketing
+5895811181,digital marketing,Communications/Marketing
+5895811181,SEO,Communications/Marketing
+5816755197,digital marketing,Communications/Marketing
+5880905109,media planning,Communications/Marketing
 5590749209,media planning,Communications/Marketing
-5330813878,Excel,Technical/IT
-5776008472,market research,Communications/Marketing
+5882477969,media planning,Communications/Marketing
+5882228004,media planning,Communications/Marketing
+5881019096,media planning,Communications/Marketing
+5882402683,media planning,Communications/Marketing
+5898156291,media planning,Communications/Marketing
+5888774295,media planning,Communications/Marketing
+5898378380,media planning,Communications/Marketing
 5772770240,media planning,Communications/Marketing
-5745157272,public relations,Communications/Marketing
-5745157317,public relations,Communications/Marketing
-5734271698,digital marketing,Communications/Marketing
+5911166195,media planning,Communications/Marketing
+5896735010,data analytics,Technical/IT
 5759436929,media planning,Communications/Marketing
-5745391583,market research,Communications/Marketing
-5568634535,digital marketing,Communications/Marketing
-5222505863,media planning,Communications/Marketing
-5269104448,media planning,Communications/Marketing
-5269104448,brand strategy,Communications/Marketing
-5787949743,media planning,Communications/Marketing
-5706746358,media planning,Communications/Marketing
-5793496100,digital marketing,Communications/Marketing
-5751438135,digital marketing,Communications/Marketing
-5774769570,public relations,Communications/Marketing
-5765196765,public relations,Communications/Marketing
-5765195840,public relations,Communications/Marketing
+5903585879,media planning,Communications/Marketing
+5882627507,media planning,Communications/Marketing
+5846493682,media planning,Communications/Marketing
+5879717390,AI,Technical/IT
+5891732594,AI,Technical/IT
+5891732594,media planning,Communications/Marketing
+5846261327,media planning,Communications/Marketing
+5913510845,AI,Technical/IT
+5886626001,digital marketing,Communications/Marketing
+5908582752,digital marketing,Communications/Marketing
+5886629515,digital marketing,Communications/Marketing
+5891647306,digital marketing,Communications/Marketing
+5911756566,digital marketing,Communications/Marketing
+5911756566,public relations,Communications/Marketing
+5909575755,public relations,Communications/Marketing
+5909423340,public relations,Communications/Marketing
+5912934610,public relations,Communications/Marketing
+5913372240,public relations,Communications/Marketing
+5883846306,public relations,Communications/Marketing
+5892143479,public relations,Communications/Marketing
+5899380165,public relations,Communications/Marketing
 4811095940,public relations,Communications/Marketing
-5766287294,public relations,Communications/Marketing
-5658875450,public relations,Communications/Marketing
-5732090168,public relations,Communications/Marketing
-5792354962,public relations,Communications/Marketing
-5782849012,public relations,Communications/Marketing
-5694143290,public relations,Communications/Marketing
+5903868400,public relations,Communications/Marketing
+5806766188,public relations,Communications/Marketing
+5807154106,public relations,Communications/Marketing
+5806769411,public relations,Communications/Marketing
 5751465545,public relations,Communications/Marketing
-5779003903,public relations,Communications/Marketing
-5783532527,public relations,Communications/Marketing
+5909634840,public relations,Communications/Marketing
+5882468113,public relations,Communications/Marketing
+5800822251,public relations,Communications/Marketing
+5870569971,public relations,Communications/Marketing
+5888931278,public relations,Communications/Marketing
+5871901405,public relations,Communications/Marketing
 5587932713,public relations,Communications/Marketing
-5784146688,database management,Technical/IT
-5784146688,public relations,Communications/Marketing
-5759194425,public relations,Communications/Marketing
 5633754460,public relations,Communications/Marketing
-5744721674,public relations,Communications/Marketing
-5554758134,public relations,Communications/Marketing
 5586977366,public relations,Communications/Marketing
-5758310490,social media management,Communications/Marketing
-5758310490,public relations,Communications/Marketing
-5752857126,public relations,Communications/Marketing
-5768891767,public relations,Communications/Marketing
-5780870717,public relations,Communications/Marketing
+5885670524,cybersecurity,Technical/IT
+5885670524,AI,Technical/IT
+5878153069,public relations,Communications/Marketing
+5903511778,public relations,Communications/Marketing
 5383109275,public relations,Communications/Marketing
-5795559644,Excel,Technical/IT
-5791600032,public relations,Communications/Marketing
-5773551453,public relations,Communications/Marketing
-5694987476,AI,Technical/IT
-5694987476,public relations,Communications/Marketing
-5766455455,public relations,Communications/Marketing
-5728779770,public relations,Communications/Marketing
-5767744301,public relations,Communications/Marketing
-5795153382,public relations,Communications/Marketing
-5696302016,AI,Technical/IT
-5696302016,public relations,Communications/Marketing
-5773023423,public relations,Communications/Marketing
-5765651652,copywriting,Communications/Marketing
-5768422569,public relations,Communications/Marketing
-5765783071,project management,Technical/IT
-5683625489,AI,Technical/IT
-5790456169,cybersecurity,Technical/IT
-5775813945,public relations,Communications/Marketing
-5794474784,public relations,Communications/Marketing
-5752861337,public relations,Communications/Marketing
-5771340404,public relations,Communications/Marketing
-5793820630,public relations,Communications/Marketing
+5895563074,public relations,Communications/Marketing
+5877720420,public relations,Communications/Marketing
+5901622129,public relations,Communications/Marketing
+5904885789,public relations,Communications/Marketing
+5913451127,project management,Technical/IT
+5905542821,public relations,Communications/Marketing
+5904383392,public relations,Communications/Marketing
+5877988185,AI,Technical/IT
+5877988185,public relations,Communications/Marketing
+5815101585,HTML,Technical/IT
+5903147091,public relations,Communications/Marketing
+5878475638,public relations,Communications/Marketing
+5813407830,HTML,Technical/IT
+5813407830,public relations,Communications/Marketing
+5813307125,HTML,Technical/IT
+5813307125,public relations,Communications/Marketing
 5739219070,AI,Technical/IT
 5739217780,AI,Technical/IT
 5739250436,AI,Technical/IT
+5739219100,AI,Technical/IT
 5739217672,AI,Technical/IT
 5739217777,AI,Technical/IT
-5739219100,AI,Technical/IT
-5794881487,public relations,Communications/Marketing
-5739217669,AI,Technical/IT
-5739219071,AI,Technical/IT
-5739219074,AI,Technical/IT
-5739219064,AI,Technical/IT
-5739250553,AI,Technical/IT
-5696118716,AI,Technical/IT
 5696118745,AI,Technical/IT
+5696118716,AI,Technical/IT
 5696124293,AI,Technical/IT
-5739217667,AI,Technical/IT
 5739250438,AI,Technical/IT
-5739250543,AI,Technical/IT
 5739219805,AI,Technical/IT
-5754023434,public relations,Communications/Marketing
-5775909290,public relations,Communications/Marketing
-5757037908,copywriting,Communications/Marketing
-5738658641,AI,Technical/IT
-5738345529,AI,Technical/IT
-5738387645,AI,Technical/IT
-5738365808,AI,Technical/IT
-5738483416,AI,Technical/IT
-5738480817,AI,Technical/IT
-5789986435,AI,Technical/IT
-5737195173,AI,Technical/IT
-5737427542,AI,Technical/IT
-5694093847,AI,Technical/IT
-5694265187,AI,Technical/IT
-5737432859,AI,Technical/IT
-5737547114,AI,Technical/IT
-5737416630,AI,Technical/IT
-5737381658,AI,Technical/IT
-5737315750,AI,Technical/IT
-5789985318,AI,Technical/IT
-5794365135,social media management,Communications/Marketing
-5796339309,digital marketing,Communications/Marketing
-5715173556,content strategy,Communications/Marketing
-5732696311,content strategy,Communications/Marketing
-5793444409,video production,Communications/Marketing
-5707991374,video production,Communications/Marketing
-4861782096,AI,Technical/IT
-5576845711,AI,Technical/IT
-5727697413,graphic design,Communications/Marketing
-5727697413,video production,Communications/Marketing
-5695327235,video production,Communications/Marketing
-5790942796,AI,Technical/IT
-5762303393,AI,Technical/IT
-5454063297,AI,Technical/IT
-5766673259,video production,Communications/Marketing
-5763389719,digital marketing,Communications/Marketing
-5718471426,content strategy,Communications/Marketing
-5793142514,digital marketing,Communications/Marketing
-5796652552,video production,Communications/Marketing
-5778603305,SEO,Communications/Marketing
-5412627679,brand strategy,Communications/Marketing
-5412627679,video production,Communications/Marketing
-5067062215,brand strategy,Communications/Marketing
-5067062215,video production,Communications/Marketing
+5739219071,AI,Technical/IT
+5739219064,AI,Technical/IT
+5739219074,AI,Technical/IT
+5739250553,AI,Technical/IT
+5739217667,AI,Technical/IT
+5739217669,AI,Technical/IT
+5739250543,AI,Technical/IT
+5908653050,AI,Technical/IT
+5904383372,public relations,Communications/Marketing
+5813807969,HTML,Technical/IT
+5813807969,public relations,Communications/Marketing
+5908657846,AI,Technical/IT
+5908657170,AI,Technical/IT
+5908815498,AI,Technical/IT
+5908792376,AI,Technical/IT
+5908758410,AI,Technical/IT
+5909099596,AI,Technical/IT
+5908959306,AI,Technical/IT
+5909221902,AI,Technical/IT
+5909185225,AI,Technical/IT
+5908995604,AI,Technical/IT
+5856824827,public relations,Communications/Marketing
+5913520920,AI,Technical/IT
+5904253131,AI,Technical/IT
+5904529164,AI,Technical/IT
+5909318553,digital marketing,Communications/Marketing
+5913577469,AI,Technical/IT
+5913806159,video production,Communications/Marketing
+5913694875,video production,Communications/Marketing
+5913694875,AI,Technical/IT
+5913326877,AI,Technical/IT
+5913789833,AI,Technical/IT
+5913455131,AI,Technical/IT
+5913522348,AI,Technical/IT
+5913426792,AI,Technical/IT
+5906879531,AI,Technical/IT
+5907048340,AI,Technical/IT
+5906145045,SEO,Communications/Marketing
+5906145045,AI,Technical/IT
+5896377875,graphic design,Communications/Marketing
+5870427850,AI,Technical/IT

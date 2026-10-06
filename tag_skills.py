@@ -1,12 +1,16 @@
 """
 Tag CCI courses and job postings with a shared skills vocabulary, by
-keyword-matching each row's description against a fixed skill list.
+keyword-matching against a fixed skill list.
 
-Matching is literal-phrase, case-insensitive, whole-word/phrase boundaries
-only (no synonym expansion) -- simple and auditable, but will undercount
-skills that appear under a different name (e.g. "AWS" won't tag "cloud
-computing"). Good enough for a portfolio-scale gap analysis; revisit with
-an alias list later if recall turns out to matter.
+Courses are matched on title + description: a course named "Media Planning"
+teaches media planning even if its description never repeats the phrase.
+Job postings are matched on description only -- their titles mostly echo the
+search terms used to find them, which would inflate those skills further.
+
+Matching is literal-phrase, case-insensitive, whole-word/phrase boundaries,
+plus a short ALIASES list of spelled-out forms ("user experience design" for
+"UX design"). Still undercounts skills that appear under looser names (e.g.
+"AWS" won't tag "cloud computing") -- simple and auditable over clever.
 
 Known false positive, accepted rather than solved: "Excel" also matches
 the verb ("prepares students to excel in..."), not just the spreadsheet
@@ -72,8 +76,25 @@ SUFFIX_OVERRIDES = {
     "CSS": r"\d*",
 }
 
+# Other names for the same skill. Kept to exact equivalents (spelled-out
+# acronyms, spacing variants) so a match still means the skill is named.
+ALIASES = {
+    "AI": ["artificial intelligence"],
+    "UX design": ["user experience design"],
+    "UI design": ["user interface design"],
+    "SEO": ["search engine optimization"],
+    "cybersecurity": ["cyber security"],
+}
+
 SKILL_PATTERNS = {
-    skill: re.compile(r"\b" + re.escape(skill) + SUFFIX_OVERRIDES.get(skill, "") + r"\b", re.IGNORECASE)
+    skill: re.compile(
+        r"\b(?:"
+        + "|".join(re.escape(name) for name in [skill] + ALIASES.get(skill, []))
+        + r")"
+        + SUFFIX_OVERRIDES.get(skill, "")
+        + r"\b",
+        re.IGNORECASE,
+    )
     for skill in SKILLS
 }
 
@@ -85,11 +106,12 @@ def find_skills(text):
     return {skill for skill, pattern in SKILL_PATTERNS.items() if pattern.search(text)}
 
 
-def tag_dataframe(df, id_col):
-    """Tag each row's description, return a list of {id_col, skill, skill_category} dicts."""
+def tag_dataframe(df, id_col, text_cols):
+    """Tag each row's text_cols, return a list of {id_col, skill, skill_category} dicts."""
     rows = []
     for _, row in df.iterrows():
-        for skill in find_skills(row["description"]):
+        text = " ".join(str(row[col]) for col in text_cols if isinstance(row[col], str))
+        for skill in find_skills(text):
             rows.append({
                 id_col: row[id_col],
                 "skill": skill,
@@ -119,8 +141,8 @@ def main():
     courses = pd.read_csv("cci_all_courses.csv")
     jobs = pd.read_csv("cci_job_postings_latest.csv")
 
-    course_skill_rows = tag_dataframe(courses, "course_code")
-    job_skill_rows = tag_dataframe(jobs, "job_id")
+    course_skill_rows = tag_dataframe(courses, "course_code", ["title", "description"])
+    job_skill_rows = tag_dataframe(jobs, "job_id", ["description"])
 
     pd.DataFrame(course_skill_rows).to_csv("course_skills.csv", index=False)
     pd.DataFrame(job_skill_rows).to_csv("job_skills.csv", index=False)
