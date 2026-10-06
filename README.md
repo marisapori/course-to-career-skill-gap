@@ -5,6 +5,9 @@ what do entry-level employers actually ask for? This project compares all
 117 CCI undergraduate courses against 1,120 real job postings
 to find where the two line up and where they don't.
 
+I'm an ICT student in CCI, and I built this because I wanted to know
+whether my classes were preparing me for the jobs I'd actually apply for.
+
 **Live dashboard:** https://course-to-career-skill-gap.streamlit.app
 
 ![Dashboard overview](docs/dashboard-top.png)
