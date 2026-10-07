@@ -10,6 +10,9 @@ whether my classes were preparing me for the jobs I'd actually apply for.
 
 **Live dashboard:** https://course-to-career-skill-gap.streamlit.app
 
+*On FSU Wi-Fi? The campus network filter blocks `streamlit.app` and shows a
+certificate warning. Open the link on cellular data or off-campus Wi-Fi instead.*
+
 ![Dashboard overview](docs/dashboard-top.png)
 
 > This is an independent student data analysis project. It is not
